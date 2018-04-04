@@ -1,0 +1,6 @@
+framework module SSRSpecialKit {
+  umbrella header "SSRSpecialKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

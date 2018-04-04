@@ -1,0 +1,6 @@
+framework module SSRTestLib {
+  umbrella header "SSRTestLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

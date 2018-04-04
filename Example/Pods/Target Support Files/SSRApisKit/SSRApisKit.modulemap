@@ -1,0 +1,6 @@
+framework module SSRApisKit {
+  umbrella header "SSRApisKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

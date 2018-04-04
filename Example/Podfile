@@ -1,3 +1,6 @@
+source 'https://github.com/SSRComponent/SSRSpacs.git'
+source 'https://github.com/CocoaPods/Specs.git'
+
 use_frameworks!
 
 target 'SSRSpecialKit_Example' do

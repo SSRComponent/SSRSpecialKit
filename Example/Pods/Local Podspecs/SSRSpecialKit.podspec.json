@@ -1,0 +1,39 @@
+{
+  "name": "SSRSpecialKit",
+  "version": "1.0.1",
+  "summary": "A short description of SSRSpecialKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ordinaryITM/SSRSpecialKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ordinaryITM": "songshuran@hemayun.com"
+  },
+  "source": {
+    "git": "https://github.com/ordinaryITM/SSRSpecialKit.git",
+    "tag": "1.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SSRSpecialKit/Classes/**/*",
+  "dependencies": {
+    "Masonry": [
+
+    ],
+    "YYWebImage": [
+
+    ],
+    "ReactiveCocoa": [
+      "~> 2.5"
+    ],
+    "SSRApisKit": [
+
+    ],
+    "SSRTestLib": [
+
+    ]
+  }
+}
