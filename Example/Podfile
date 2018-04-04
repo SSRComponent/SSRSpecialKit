@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SSRSpecialKit_Example' do
+  pod 'SSRSpecialKit', :path => '../'
+
+  target 'SSRSpecialKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
